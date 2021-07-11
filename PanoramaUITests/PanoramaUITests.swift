@@ -2,7 +2,7 @@
 //  PanoramaUITests.swift
 //  PanoramaUITests
 //
-//  Created by Fabrizio Stocco on 24/11/20.
+//  Created by Fabrizio Stocco on 7/7/20.
 //
 
 import XCTest
